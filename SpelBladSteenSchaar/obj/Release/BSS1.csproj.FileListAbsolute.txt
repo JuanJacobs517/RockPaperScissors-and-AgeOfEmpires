@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Release\SpelBladSteenSchaar.exe.config
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Release\SpelBladSteenSchaar.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Release\SpelBladSteenSchaar.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\MainWindow.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\App.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar_MarkupCompile.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar_MarkupCompile.lref
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\MainWindow.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar.g.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar.Properties.Resources.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\BSS1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\BSS1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Release\SpelBladSteenSchaar.pdb

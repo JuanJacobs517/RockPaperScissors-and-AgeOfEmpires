@@ -1,0 +1,171 @@
+﻿<Window x:Class="AOE1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AOE1"
+        mc:Ignorable="d"
+        Title="Age of Empires by Juan Jacobs" Height="550" Width="960" FontFamily="Consolas" >
+
+    <Viewbox StretchDirection="Both" Stretch="Uniform" >
+        <!-- main grid -->
+        <Grid Height="550" Width="994">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="3*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+
+            
+            <!--4 Buttons -->
+            <StackPanel Grid.RowSpan="3" Grid.ColumnSpan="1" Margin="20 60 0 0">
+
+                <Button Name="RidderBtn" 
+                Height="100" Margin="10" Click="RidderBtn_Click" BorderBrush="Gray" BorderThickness="4" MouseEnter="RidderBtn_MouseEnter" MouseLeave="RidderBtn_MouseLeave">
+
+                    <Button.Content>
+                        <Image Name="RidderBtnImg" Source="img\ridder.jpg" Stretch="Fill"/>
+                    </Button.Content>
+
+                </Button>
+
+                <Button x:Name="BoogschutterBtn"
+                Height="100" Margin="10" Click="BoogschutterBtn_Click"
+                BorderBrush="Gray" BorderThickness="4" MouseEnter="BoogschutterBtn_MouseEnter" MouseLeave="BoogschutterBtn_MouseLeave">
+
+                    <Button.Content>
+                        <Image Name="BoogschutterBtnImg" Source="img\boogshutter.jpg" Stretch="Fill"/>
+                    </Button.Content>
+                </Button>
+                <Button x:Name="ZwaardvechterBtn" 
+                Height="100" Margin="10" Click="ZwaardvechterBtn_Click"
+                BorderBrush="Gray" BorderThickness="4" MouseEnter="ZwaardvechterBtn_MouseEnter" MouseLeave="ZwaardvechterBtn_MouseLeave">
+
+                    <Button.Content>
+                        <Image Name="ZwaardvechterBtnImg" Source="img\zwaardvechter.jpg" Stretch="Fill"/>
+                    </Button.Content>
+                </Button>
+                <Button Name="SpeerwerperBtn" 
+                Height="100" Margin="10" BorderBrush="Gray" BorderThickness="4" Click="SpeerwerperBtn_Click" MouseEnter="SpeerwerperBtn_MouseEnter" MouseLeave="SpeerwerperBtn_MouseLeave">
+                    <Button.Content>
+                        <Image Name="SpeerwerperBtnImg" Source="img\speerwerper.jpg" Stretch="Fill"/>
+                    </Button.Content>
+                </Button>
+            </StackPanel>
+
+            <!-- tonen van gekozen images, huidige score, speelvak.-->
+            <Grid Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="5" Margin="40 20 0 0" Grid.RowSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock x:Name="ResultaatTxt" Text="Maak je keuze" Margin="0 10 0 40"
+                   Grid.Column="0" HorizontalAlignment="Center"
+                    FontSize="16" Grid.ColumnSpan="3"/>
+                <!-- tonen van keuze speler en CPU -->
+                <TextBox x:Name="SpelerKeuzeTxt"  Grid.Row="1"
+                     Margin="0 0 0 10" TextAlignment="Center" IsEnabled="False"
+                     FontSize="60" Padding="0,50" Width="250"/>
+                <TextBox x:Name="CpuKeuzeTxt" Grid.Row="1" Grid.Column="3"
+                     Margin="0 0 0 10" TextAlignment="Center" IsEnabled="False"
+                     FontSize="60" Padding="0,50" Width="250"/>
+                
+                <Image Name="SpelerKeuzeImg" Margin="0 10 0 20" Grid.Row="1"
+                       Width="200"/>
+                <Image Name="CpuKeuzeImg" Grid.Column="3" Grid.Row="1"
+                  Margin="0 10 0 20" Width="200"/>
+                
+                <!--score van speler en CPU-->
+                <TextBlock 
+                       Text="Speler:" HorizontalAlignment="Center" FontSize="20"
+                       VerticalAlignment="Center" Margin="0 0 30 0"/>
+                <TextBlock x:Name="SpelerScoreTxt" Text="0" Grid.Column="0" Grid.Row="0" 
+                     HorizontalAlignment="center" VerticalAlignment="Center"
+                     Margin="90 0 0 0" FontSize="20"/>
+                <TextBlock Grid.Column="3" FontSize="20"
+                       Text="Computer: " HorizontalAlignment="center" 
+                       VerticalAlignment="Center" Margin="0 0 30 0"/>
+                <TextBlock x:Name="CpuScoreTxt"  Text="0"  Grid.Column="3"
+                     HorizontalAlignment="Center" VerticalAlignment="Center"
+                     Margin="100 0 0 0" FontSize="20"/>
+                <!-- Timer -->
+                <Label x:Name="TimerLbl" Grid.Column="1" Grid.Row="1"
+               HorizontalAlignment="Center" VerticalAlignment="Center"
+               FontSize="50" Width="50"/>
+            </Grid>
+            <!-- historiek keuzes-->
+            <Grid  Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5" Margin="64 0 24 10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border BorderThickness="3" BorderBrush="DarkGray"  Grid.Column="0" Grid.ColumnSpan="2"/>
+                <Border BorderThickness="1 0 1 1" BorderBrush="DarkGray" Grid.Row="1" Grid.RowSpan="4" Grid.ColumnSpan="2"/>
+                <!-- headers -->
+                <Label Grid.ColumnSpan="2" HorizontalAlignment="Center" Content="Historiek keuzes"
+                       FontSize="14" FontWeight="Bold"/>
+                <Label Content="Speler" Grid.Row="0" HorizontalAlignment="Center"
+                       FontStyle="Italic" FontWeight="Bold" />
+                
+                <Label Content="Computer" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center"
+                       FontStyle="Italic" FontWeight="Bold" />
+                <!-- historiek keuzes speler -->
+                <Label Content="Ridder:" Grid.Row="1" HorizontalAlignment="Center"/>
+                <Label Name="SpelerRidderLbl" Content="0" Grid.Row="1" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Boogschutter:" Grid.Row="2" HorizontalAlignment="Center"/>
+                <Label Name="SpelerBoogschutterLbl" Content="0" Grid.Row="2" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Zwaardvechter:" Grid.Row="3" HorizontalAlignment="Center"/>
+                <Label Name="SpelerZwaardvechterLbl" Content="0" Grid.Row="3" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Speerwerper:" Grid.Row="4" HorizontalAlignment="Center"/>
+                <Label Name="SpelerSpeerwerperLbl" Content="0" Grid.Row="4" HorizontalAlignment="Right"
+                        Margin="0 0 90 0"/>
+                <!-- historiek keuzes computer -->
+                <Label Content="Ridder:" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center"/>
+                <Label Name="CpuRidderLbl" Content="0" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Boogschutter:" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center"/>
+                <Label Name="CpuBoogschutterLbl" Content="0" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Zwaardvechter:" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center"/>
+                <Label Name="CpuZwaardvechterLbl" Content="0" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+                <Label Content="Speerwerper:" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center"/>
+                <Label Name="CpuSpeerwerperLbl" Content="0" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right"
+                       Margin="0 0 90 0"/>
+
+
+            </Grid>
+
+        </Grid>
+    </Viewbox>
+
+
+
+</Window>

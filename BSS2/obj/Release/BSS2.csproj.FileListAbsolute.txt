@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Release\BSS2.exe.config
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Release\BSS2.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Release\BSS2.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\MainWindow.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\App.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2_MarkupCompile.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2_MarkupCompile.lref
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\MainWindow.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.g.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.Properties.Resources.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Release\BSS2.pdb

@@ -1,0 +1,15 @@
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe.config
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.csprojAssemblyReference.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\App.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.lref
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.baml
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.g.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.Properties.Resources.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.csproj.GenerateResource.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.csproj.CoreCompileInputs.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.pdb

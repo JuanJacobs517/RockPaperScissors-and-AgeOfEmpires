@@ -1,0 +1,77 @@
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe.config
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csprojAssemblyReference.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\App.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.lref
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.baml
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.g.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.Properties.Resources.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.GenerateResource.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CoreCompileInputs.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.dll
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.xml
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CopyComplete
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe.config
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.pdb
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.dll
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.xml
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csprojAssemblyReference.cache
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.g.cs
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\App.g.cs
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.cache
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.lref
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.baml
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.g.resources
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.Properties.Resources.resources
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.GenerateResource.cache
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CoreCompileInputs.cache
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CopyComplete
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.exe
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.pdb
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe.config
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.pdb
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.dll
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.xml
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csprojAssemblyReference.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\App.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.lref
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.baml
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.g.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.Properties.Resources.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.GenerateResource.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CoreCompileInputs.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CopyComplete
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.pdb
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.g.cs
+C:\Users\Silver\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.baml
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe.config
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\bin\Debug\AOE1.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.dll
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\bin\Debug\WebDriver.xml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1_MarkupCompile.lref
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\PopUp.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.g.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.Properties.Resources.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.csproj.CopyComplete
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\AOE1\obj\Debug\AOE1.pdb

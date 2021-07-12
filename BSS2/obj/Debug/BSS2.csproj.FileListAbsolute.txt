@@ -1,0 +1,44 @@
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe.config
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\App.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.lref
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.baml
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.g.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.Properties.Resources.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.GenerateResource.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.CoreCompileInputs.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csprojAssemblyReference.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe.config
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.pdb
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csprojAssemblyReference.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\App.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.lref
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.baml
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.g.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.Properties.Resources.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.GenerateResource.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.CoreCompileInputs.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe.config
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\bin\Debug\BSS2.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2_MarkupCompile.lref
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.g.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.Properties.Resources.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\BSS2\obj\Debug\BSS2.pdb

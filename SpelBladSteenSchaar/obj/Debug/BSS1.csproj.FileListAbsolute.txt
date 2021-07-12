@@ -1,0 +1,44 @@
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe.config
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.pdb
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csprojAssemblyReference.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\App.g.cs
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.lref
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.baml
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.g.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.Properties.Resources.resources
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.GenerateResource.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.CoreCompileInputs.cache
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.exe
+C:\Project_WerkpleklerenApp\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.pdb
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe.config
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.pdb
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csprojAssemblyReference.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\App.g.cs
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.lref
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.baml
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.g.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.Properties.Resources.resources
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.GenerateResource.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.CoreCompileInputs.cache
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.exe
+Y:\OneDrive - PXL\C#\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe.config
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\bin\Debug\SpelBladSteenSchaar.pdb
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar_MarkupCompile.lref
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.g.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.Properties.Resources.resources
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\BSS1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.exe
+\\Mac\Home\Desktop\SpelBladSteenSchaar\SpelBladSteenSchaar\SpelBladSteenSchaar\obj\Debug\SpelBladSteenSchaar.pdb
